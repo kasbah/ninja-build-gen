@@ -28,7 +28,7 @@
     "prepublish": "grunt"
   },
   "dependencies": {
-    "source-map-support": "~0.1.8"
+    "source-map-support": "^0.4.0"
   },
   "devDependencies": {
     "coffeelint": "~0.5.6",
